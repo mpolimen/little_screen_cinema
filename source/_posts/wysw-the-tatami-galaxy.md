@@ -4,7 +4,7 @@ date: 2021-12-23 17:28:02
 tags:
 - anime
 - recommendation
-cover_index: "https://s10.gifyu.com/images/tatami_life.webp"
+cover_index: images/tatami_rose_glasses.png
 ---
 
 <div style='background-color:#D9FDD8; color:#337A3E; border-radius: .5em;'>
