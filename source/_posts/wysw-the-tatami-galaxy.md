@@ -17,9 +17,9 @@ subtitle: grab this opportunity!
 </div>
 
 
-<p>Meet <b>Watashi</b>, the protagonist of <i><a href="https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei?q=the%20tatami&cat=anime">The Tatami Galaxy</a></i>: after missing his opportunity in high school, he starts college with the goal of choosing the right club to join that will give him the perfect college experience, the <b>Rose-Colored Campus Life</b>. The show takes him on a journey into what each decision offers him, always leaving him with regrets.</p>
+New chapters of life, like starting college, promise fulfillment of our dreams. Have you ever caught yourself thinking, "Once I'm out of school, I can start to *really* pursue that hobby" or "After I get that great job, I'll finally be able to relax a little and enjoy life"? These notions merely delay actions that can be taken in the present to pursue those dreams and attain happiness *now*, yet we still fall for the deception.
 
-New chapters of life, like starting college, promise fulfillment of our dreams. Have you ever caught yourself thinking, "Once I'm out of school, I can start to *really* pursue that hobby" or "After I get that great job, I'll finally be able to relax a little and enjoy life"? However, these notions merely delay actions that can be taken in the present to pursue those dreams and attain happiness *now*.
+<p>Meet <b>Watashi</b>, the protagonist of <i><a href="https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei?q=the%20tatami&cat=anime">The Tatami Galaxy</a></i>: after missing his opportunity in high school, he starts college with the goal of choosing the right club to join that will give him the perfect college experience, the <b>Rose-Colored Campus Life</b>. The show takes him on a journey into what each decision offers him, always leaving him with regrets.</p>
 
 My goal with this article is to explain why going through these possible lives of Watashi's can leave a lasting impression on how you live your own life, while explaining how the pieces of this show come together to convey its message so artistically. Now that we're on the same page, let's begin with...
 
@@ -61,11 +61,11 @@ With *Tatami's* premise of showing different versions of a life based on changin
 
 It goes for route #2 and hammers in the parallels with repetition. Specifically, key aspects of Watashi's life, irrespective of what decision he makes, always pop up: talking to a fortune teller and getting charged for a fortune that goes over his head, meeting Ozu who he blames for wasting his "perfectly lovely college life", and being around Akashi as she gets frightened by a moth.
 
-Every path leads him to the same conclusion:
+Despite the parallels, he still finds himself admitting:
 
 > I can't shake the regret. If I had chosen a different club, my years would have surely turned out differently.
 
-Making a decision can be HARD. Through its use of repetition, *The Tatami Galaxy* offers us comfort in the idea that whatever decision we make, our life will still brim with a mix of colors and some experiences and people will be a part of our life regardless, even if the details are a little different; conversely, it also reminds us that no decision will ever lead us to a rose-colored life of perfection.
+Making a decision can be HARD. Through its use of repetition, *The Tatami Galaxy* offers us comfort in the knowledge that whatever decision we make, our life will still brim with a mix of colors, and some people and experiences will be a part of all of our possible lives, even if the details are a little different; conversely, it also reminds us that no decision will ever lead us to a rose-colored life of perfection.
 
 ### Personal Impact
 
