@@ -1,15 +1,17 @@
 # Header
 menu:
   Home: /
+  Why You Should Watch: /tags/Why-You-Should-Watch/
+  Deep Dives: /tags/Deep-Dive/
   Archives: /archives
-  About: /about.html
+  # About: /about.html
 
 # Logo Image Source
 logo_src: /images/logo.png
 # logo_src: "https://cdn-icons-png.flaticon.com/512/3142/3142083.png"
 
 # Theme Main Subtitle
-subtitle_main: Let's Talk TV
+subtitle_main: Let's Talk TV.
 
 # Theme Secondary subtitle
 susbtitle_secondary: The goal of this blog is to give recommendations through my "Why You Should Watch" posts, explore the fascinating techniques or messages behind great shows through my "Deep Dive" posts, and talk about my relationship with television, in general.

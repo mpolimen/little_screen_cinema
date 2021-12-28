@@ -3,7 +3,7 @@ title: Why You Should Watch The Tatami Galaxy
 date: 2021-12-23 17:28:02
 tags:
 - anime
-- recommendation
+- Why You Should Watch
 cover_index: images/tatami_rose_glasses.png
 subtitle: grab this opportunity!
 ---
