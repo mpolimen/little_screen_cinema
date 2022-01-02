@@ -51,7 +51,7 @@ Before we get to the characters in this scene, it's now a good time to analyze t
 
 *Utopia* may be the most visually stunning TV series I have ever seen. It ditches the traditional RGB color palette for technicolor. The bright blue skies in the images above were actually not blue upon capturing the scene; they were grey. However, the staff used software to color-correct and paint over most shots to achieve this iconic technicolor look in everything, not just to liven up Britain's grey sky.
 
-This bright aesthetic further shocks the viewer when the juxtaposing violence ensues on-screen. This shock was very intentional as the creators believe that violence should always be shocking (in contrast to the oversaturation of easily digestible violent television of today).
+This bright aesthetic further shocks the viewer when juxtaposing violence ensues on-screen. This shock was very intentional as the creators believe that violence should always be shocking (in contrast to the oversaturation of easily digestible violent television of today).
 
 #### HEROISM
 
@@ -78,7 +78,7 @@ Now, with the music in full swing and the Network agents in control of the situa
 
 After clearly killing all three people in the shop and getting any pertinent information out of them, they start preparing the scene to cover their involvement. Both men immediately look to their vice: Lee's smoking habit, which builds a character pattern that becomes relevant later in the episode, and Arby's box of chocolate raisins, hinting at his adolescent mind. This adolescence flows right into Arby finding a young boy hiding under one of the shelves; he has no issue providing this boy with the same deadly fate.
 
-This may seem cruel for the sake of being cruel, but as aforementioned, there is great care in the violence of *Utopia*. The point here? When looking at the estimated impacts of overpopulation, these agents may ask "why bring a child into this world with such a cruel future?" To quote yet another pessimistic British show *Years and Years* when a character reflects on the world with a newborn baby in his arms,
+This may seem cruel for the sake of being cruel, but as aforementioned, there is great care in the violence of *Utopia*. The point here? When looking at the estimated impacts of overpopulation, these agents may ask "why bring a child into this world with such a cruel future?" To quote yet another pessimistic British show, *Years and Years*, when a character reflects on the world with a newborn baby in his arms,
 
 > Things were okay a few years ago... Do you remember back then? We used to think politics was boring. But now, I worry about everything.... What sort of world are we in? Cause, if it's this bad now, what's it going to be like for you, huh? 30 years' time, 10 years, 5 years? What's it going to be like?
 

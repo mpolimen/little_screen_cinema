@@ -14,7 +14,7 @@ logo_src: /images/logo.png
 subtitle_main: Let's Talk TV.
 
 # Theme Secondary subtitle
-susbtitle_secondary: The goal of this blog is to give recommendations through my "Why You Should Watch" posts, explore the fascinating techniques or messages behind great shows through my "Deep Dive" posts, and talk about my relationship with television, in general.
+susbtitle_secondary: The goal of this blog is to give recommendations, explore the fascinating techniques or messages behind great shows, and talk about my relationship with television, in general. Each post gives proper information regarding spoilers, so you can click on any post with no fear!
 
 # Footer About Section
 about_footer: Logo made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
@@ -46,12 +46,13 @@ show_dates:
 
 # Social Accounts
 # twitter_url: https://twitter.com/?lang=en
+linkedin_url: https://www.linkedin.com/in/marco-polimeni/
 # facebook_url: https://www.facebook.com/
-instagram_url: https://www.instagram.com/
+# instagram_url: https://www.instagram.com/
 # dribble_url: https://dribbble.com/
-github_url: https://github.com/klugjo/hexo-theme-phantom/commits?author=klugjo
+github_url: https://github.com/mpolimen
 # googleplus_url: https://plus.google.com/
 # behance_url: https://www.behance.net/
 # fivehundredpx_url: https://500px.com/
-email_url: \#
+email_url: mailto:stats3434@gmail.com
 # rss_url: \#
