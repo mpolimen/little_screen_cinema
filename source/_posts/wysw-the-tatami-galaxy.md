@@ -5,16 +5,17 @@ tags:
 - anime
 - Why You Should Watch
 cover_index: images/tatami_rose_glasses.png
-subtitle: grab this opportunity!
+subtitle: Grab this opportunity!
 ---
 
-<div style="max-width:750px; margin: auto;">
+<div style="max-width:600px; margin: auto;">
     <img src="raven_haired.png" style="max-width: 100%; height: auto; width: auto\9;">
 </div>
 <div style='background-color:#D9FDD8; color:#337A3E; border-radius: .5em;'>
 <span><p style='margin-left:1em; padding-right: 1em'>
     {% fa_inline check-circle fas %} &nbsp; No spoilers ahead! The following post is intended for those who have or have not seen <i>The Tatami Galaxy</i> to get a better understanding of why I consider it essential viewing!</p></span>
 </div>
+
 
 
 New chapters of life, like starting college, promise fulfillment of our dreams. Have you ever caught yourself thinking, "Once I'm out of school, I can start to *really* pursue that hobby" or "After I get that great job, I'll finally be able to relax a little and enjoy life"? These notions merely delay actions that can be taken in the present to pursue those dreams and attain happiness *now*, yet we still fall for the deception.
@@ -25,12 +26,13 @@ My goal with this article is to explain why going through these possible lives o
 
 ### The Presentation
 
-<div style="max-width:750px; margin: auto;">
+<div style="max-width:600px; margin: auto;">
     <img src="tatami_moth_freakout.jpg" style="max-width: 100%; height: auto; width: auto\9;">
 </div>
-<p>Right off the bat, it's hard to ignore <i>Tatami's</i> distinct look. Whether you've seen a lot of anime or not, the aesthetic here is not typical by any stretch. Each scene greatly benefits from applied color filters as they inform the mood.</p>
 
-The flat yet springy character designs allow for the show's direction to flow in a creative way emulating a fever dream, at times. The everchanging color palette also contributes to that feeling, yet it also aids in the show's themes: all of these possible lives are filled with many colors.
+Right off the bat, it's hard to ignore <i>Tatami's</i> distinct look. Whether you've seen a lot of anime or not, the aesthetic here is not typical by any stretch.
+
+The flat yet springy character designs allow for the show's direction to flow in a creative way emulating a fever dream, at times. The everchanging color palette contributes to that feeling, yet it also aids in the show's themes: all of these possible lives are filled with many colors.
 
 Quick note on the [soundtrack](https://www.youtube.com/watch?v=SWC_NsJGfO4&t=143s), each main character is given an instrumental theme that captures the essence of their portrayal in the story (think *Peter and the Wolf*, where the duck is identified by the oboe). Also, personally, it's one of the only music choices in my rotation if I'm listening to something while I work.
 

@@ -4,7 +4,7 @@ date: 2021-12-25 17:21:51
 tags:
 - list
 cover_index: images/2021.png
-subtitle: my personal favorites!
+subtitle: My personal favorites!
 ---
 
 <div style='background-color:#D9FDD8; color:#337A3E; border-radius: .5em;'>
@@ -28,7 +28,7 @@ Throughout junior high and high school, I ran a lot of miles as a member of Cros
 
 ### 9. Gravity Falls
 
-<div style="max-width:750px; margin: auto;">
+<div style="max-width:700px; margin: auto;">
     <img src="gravity_falls.jpg" style="max-width: 100%; height: auto; width: auto\9;">
 </div>
 
@@ -39,9 +39,10 @@ Watching this over the summer complemented the summer vacation premise of the sh
 
 ### 8. Kaiji
 
-<div style="max-width:750px; margin: auto;">
+<div style="max-width:600px; margin: auto;">
     <img src="kaiji.jpg" style="max-width: 100%; height: auto; width: auto\9;">
 </div>
+
 
 
 No show makes you feel despair quite like [*Kaiji*](https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor?q=kaiji&cat=anime) does. Its mix of gambling and games draws you into an almost video game sense of interaction where you try to figure out the best strategy; however, *Kaiji's* writing brings you into a scarier reality when there seems to be no strategy left to save you, no hope of survival. The stakes are always high which keeps *Kaiji* engaging throughout its whole run, mostly. You celebrate with every win, and suffer with every loss.
@@ -63,9 +64,10 @@ The character writing on this show was *wildly* unpredictable at times, but cons
 
 ### 6. Game of Thrones
 
-<div style="max-width:750px; margin: auto;">
+<div style="max-width:500px; margin: auto;">
     <img src="game_of_thrones.png" style="max-width: 100%; height: auto; width: auto\9;">
 </div>
+
 
 
 Now, I know it's blasphemy to mention [*Game of Thrones*](https://www.imdb.com/title/tt0944947/) in a positive manner after season 8 aired in 2019, but I never watched any of the show until this year. So... sorry, but I had to mention *Game of Thrones* as one of my favorites of the year.
@@ -96,6 +98,19 @@ It was a joy each episode and not because I'm a baseball fan (*Mario Superstar B
 
 ### 3. Oregairu
 
+<div style="max-width:600px; margin: auto;">
+    <img src="oregairu.jpg" style="max-width: 100%; height: auto; width: auto\9;">
+</div>
+
+
+
+
+Remember when I said *You're the Worst* is the pinnacle of romantic comedy in my mind? Well, I sort of lied. It *was* at the time of finishing the series; however, soon after, I found [*Oregairu*](https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru?q=oregairu&cat=anime) and it completely changed things.
+
+It's hard to say whether *Oregairu* will have a huge impact on how I live my life as of yet, I finished the show just last night as of writing this. Though, the lessons of the show already keep me deep in thought.
+
+Not since all-time favorite series, like *BoJack Horseman* and *Showa Genroku Rakugo Shinju* have I noticed such a high quality of writing where every single character interaction and piece of dialogue convey such immense depth into a complex characters and rich themes.
+
 ### 2. Penguindrum
 
 <div style="max-width:750px; margin: auto;">
@@ -119,5 +134,9 @@ A work of art like this constitutes how my passion for cinema has grew so rapidl
 Though *Penguindrum* was the most impressive, [*Six Feet Under*](https://www.imdb.com/title/tt0248654/) was easily the most powerful. I opened the year watching *Six Feet Under* during my winter break. Due to pandemic isolation and no regular interactions through school, *Six Feet Under* is what I remember most from that time. After 2020, I had no idea what the next year would bring, but this show helped find the beauty in that anxiety.
 
 *Six Feet Under* was not always perfect or *good*, but it was deeply authentic in its characters and themes. It was not only my favorite show of the year, but my favorite journey; on that journey I was able to peer into the lives of the Fisher family, and they peered back at me with the weight of life lived until death.
+
+
+
+**That's my list**; another excellent year of TV for me! While I imagine I won't watch TV at nearly the high rate that I did this year with pandemic-related stay-at-home life, I look forward to the journeys of TV that I'll embark on next year.
 
 {% fa_css %}
