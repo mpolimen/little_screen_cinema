@@ -1,5 +1,5 @@
 ---
-title: Deep Dive - Utopia's Perfect First Scene
+title: Utopia's Perfect First Scene
 date: 2021-12-28 16:36:29
 tags:
 - Deep Dives
